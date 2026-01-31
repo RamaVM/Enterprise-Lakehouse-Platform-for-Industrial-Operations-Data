@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Spark / Kafka
+checkpoints/
+*.crc
+
+# Snowflake
+*.snowsql
