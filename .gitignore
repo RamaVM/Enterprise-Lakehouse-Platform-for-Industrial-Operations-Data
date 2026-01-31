@@ -24,3 +24,9 @@ checkpoints/
 
 # Snowflake
 *.snowsql
+
+# Sensitive keys
+*.pem
+
+# Local documentation / notes
+workdone.docx
